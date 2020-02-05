@@ -3,7 +3,7 @@ BERT for TensorFlow v2
 
 |Build Status| |Coverage Status| |Version Status| |Python Versions| |Downloads|
 
-This repo contains a `TensorFlow 2.0`_ `Keras`_ implementation of `google-research/bert`_
+This repo is a fork of kpe/bert-for-tf2 which contains a `TensorFlow 2.0`_ `Keras`_ implementation of `google-research/bert`_
 with support for loading of the original `pre-trained weights`_,
 and producing activations **numerically identical** to the one calculated by the original model.
 
